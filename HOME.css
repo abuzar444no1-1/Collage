@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+   
+}
+
+.h1{
+    color: rgb(185, 90, 248);
+    font-size: 50px;
+    border: 2px solid black;
+    margin: 0;
+    font-size: 50px;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+
+
+}
+.p{
+    color: rgba(7, 112, 0, 1);
+    font-size: 20px;
+    border: 2px solid black;
+    font-weight: 600;
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+    display: inline;
+}
+.textdiv {
+ 
+    margin-bottom: 20px;
+    display: inline;
+    width: 100px;
+    border: 2px solid black;
+}
+.imagediv{
+    border: 2px solid black;
+    width: 50%;
+display: inline;
+}
